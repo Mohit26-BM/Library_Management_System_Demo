@@ -1,5 +1,3 @@
-
-```
 # Library Management System (Python)
 
 A console-based Library Management System built in Python. This system allows users to manage books, lend and return books, and maintain borrower records. Admins have additional privileges for managing the library.
@@ -40,14 +38,12 @@ A console-based Library Management System built in Python. This system allows us
 ## File Structure
 
 ```
-
 Library\_Management\_System\_Demo/
 │
 ├── books\_data.json        # Stores all book details
 ├── lent\_books.json        # Stores lent books and borrower info
 ├── Library\_Management\_System\_Try.py  # Main Python script
 └── README.md
-
 ````
 
 ---
@@ -56,7 +52,7 @@ Library\_Management\_System\_Demo/
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/Mohit26-BM/Library_Management_System_Demo.git
 cd Library_Management_System_Demo
 ````
@@ -65,7 +61,7 @@ cd Library_Management_System_Demo
 
 3. Run the main script:
 
-```bash
+```
 python Library_Management_System_Try.py
 ```
 

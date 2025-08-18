@@ -1,0 +1,254 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "year": 1949
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "year": 1813
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "year": 1925
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1937
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "year": 1951
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "year": 2003
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 1997
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Philosophy",
+        "year": 1988
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "genre": "Non-Fiction",
+        "year": 2011
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 1997
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 1998
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 1999
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 2000
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 2003
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 2005
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 2007
+    },
+    {
+        "title": "Star Wars: Thrawn",
+        "author": "Timothy Zahn",
+        "genre": "Science Fiction",
+        "year": 2017
+    },
+    {
+        "title": "Star Wars: A New Hope \u2013 The Princess, the Scoundrel, and the Farm Boy",
+        "author": "Alexandra Bracken",
+        "genre": "Science Fiction",
+        "year": 2015
+    },
+    {
+        "title": "Star Wars: Darth Plagueis",
+        "author": "James Luceno",
+        "genre": "Science Fiction",
+        "year": 2012
+    },
+    {
+        "title": "Star Wars: Kenobi",
+        "author": "John Jackson Miller",
+        "genre": "Science Fiction",
+        "year": 2013
+    },
+    {
+        "title": "Star Wars: Heir to the Empire",
+        "author": "Timothy Zahn",
+        "genre": "Science Fiction",
+        "year": 1991
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1954
+    },
+    {
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "author": "C.S. Lewis",
+        "genre": "Fantasy",
+        "year": 1950
+    },
+    {
+        "title": "The Maze Runner",
+        "author": "James Dashner",
+        "genre": "Science Fiction",
+        "year": 2009
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Science Fiction",
+        "year": 1965
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Dystopian",
+        "year": 2008
+    },
+    {
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "genre": "Fantasy/Romance",
+        "year": 2005
+    },
+    {
+        "title": "Percy Jackson and the Olympians: The Lightning Thief",
+        "author": "Rick Riordan",
+        "genre": "Fantasy",
+        "year": 2005
+    },
+    {
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "genre": "Science",
+        "year": 1988
+    },
+    {
+        "title": "The Grand Design",
+        "author": "Stephen Hawking",
+        "genre": "Science",
+        "year": 2010
+    },
+    {
+        "title": "Cosmos",
+        "author": "Carl Sagan",
+        "genre": "Science",
+        "year": 1980
+    },
+    {
+        "title": "The Selfish Gene",
+        "author": "Richard Dawkins",
+        "genre": "Biology",
+        "year": 1976
+    },
+    {
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "genre": "Strategy",
+        "year": -500
+    },
+    {
+        "title": "Meditations",
+        "author": "Marcus Aurelius",
+        "genre": "Philosophy",
+        "year": 180
+    },
+    {
+        "title": "Long Walk to Freedom",
+        "author": "Nelson Mandela",
+        "genre": "Autobiography",
+        "year": 1994
+    },
+    {
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "genre": "Autobiography",
+        "year": 1947
+    },
+    {
+        "title": "My Experiments with Truth",
+        "author": "Mahatma Gandhi",
+        "genre": "Autobiography",
+        "year": 1927
+    },
+    {
+        "title": "Wings of Fire",
+        "author": "A.P.J. Abdul Kalam",
+        "genre": "Autobiography",
+        "year": 1999
+    },
+    {
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "genre": "Biography",
+        "year": 2011
+    },
+    {
+        "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "author": "Ashlee Vance",
+        "genre": "Biography",
+        "year": 2015
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "year": 1960,
+        "ratings": [
+            {
+                "rating": 3,
+                "review": "Decent but not that great"
+            }
+        ]
+    }
+]

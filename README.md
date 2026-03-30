@@ -1,4 +1,4 @@
-# Library Management System (Python)
+# Library Management System (Python) 
 
 A console-based Library Management System built in Python. This system allows users to manage books, lend and return books, and maintain borrower records. Admins have additional privileges for managing the library.
 
